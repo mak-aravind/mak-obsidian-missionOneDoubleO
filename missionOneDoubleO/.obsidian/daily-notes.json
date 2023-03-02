@@ -1,0 +1,6 @@
+{
+  "format": "DD-MMM-YY",
+  "folder": "Frappe/notes/daily",
+  "autorun": true,
+  "template": "Frappe/templates/template-daily-note"
+}
