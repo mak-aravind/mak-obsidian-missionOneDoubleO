@@ -44,7 +44,7 @@
 	- [ ] Upgrade [Docker](!https://www.redhat.com/architect/12-factor-app-containers) | 02-Mar-23
 		- [x] CLI to Docker Desktop | [HIGH] | 02-Mar-23
 		- [ ] Blocked [[Blockages]] | [HIGH]
-	- [ ] Install minikube and test a sample application.
+	- [x] Install minikube and test a sample application.
 	- [ ] Try to give life to ERPNext using [k3s cluster](https://verystrongfingers.github.io/erpnext/2021/02/11/erpnext-k3s.html)
 	- [ ] Test the kubernetes extension provided in docker desktop.
 	- [ ] Investigate Frappe framework from the the 12-factor app.
