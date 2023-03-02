@@ -1,5 +1,0 @@
- - [ ] Date: 01-Mar-23 | Time: 16:37 
-	- [ ] After Upgrading Docker to Desktop version facing issue to run any docker image 
-		- [ ] Analyse Network bandwith issue - [TODO permanent solutiom] : Upgrade the speed of internet
-		- [x] restart the docker service - [temperory solution]
-	- [ ] 
