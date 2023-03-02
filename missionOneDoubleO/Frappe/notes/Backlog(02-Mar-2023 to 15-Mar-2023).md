@@ -1,15 +1,24 @@
-- ### Date: 2023-03-01 | Time: 16:40
+- ### Date: 2023-03-01 | Time: 16:40 
 
-- [ ] Install Prerequisites: [refer here](!https://github.com/frappe/bench/blob/develop/docs/installation.md) | [HIGH]
-	- [x] Python 3.6+
-	- [x] Node.js 12
-	- [ ] Redis 5	
-	- [ ] MariaDB 10.3 / Postgres 9.5	
-	- [ ] yarn 1.12+
-	- [x] pip 15+	
-	- [ ] cron
-	- [ ] wkhtmltopdf
-	- [ ] Nginx
+- [ ] Install Prerequisites: [refer here](!https://github.com/frappe/bench/blob/develop/docs/installation.md) | [HIGH] | 02-Mar-23
+	- [x] Python 3.6+| 02-Mar-23
+	- [x] Node.js 12 | 02-Mar-23
+	- [ ] Redis 5
+		- [ ] Dont install instead Go with containerised version
+	- [ ] MariaDB 10.3 / Postgres 9.5
+		- [ ] Dont install instead Go with Containerised version
+	- [x] yarn 1.12+ | 02-Mar-23
+	- [x] pip 15+ | 02-Mar-23	
+	- [x] cron | 02-Mar-23
+	- [x] wkhtmltopdf | 02-Mar-23
+		- [x] lsb_release -a
+		- [x] https://wkhtmltopdf.org/downloads.html
+		- [x] sudo apt install ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb
+		- [x] wkhtmltopdf --version
+	- [x] Nginx | 02-Mar-23
+		- [x] Dont install instead Go with Containerised version
+		- [x] docker run -it --rm -d -p 8080:80 --name web nginx
+		- [x] http://localhost:8080/
 - [ ] Understand bench tool to create the scafolding of the application.
 	- [ ]  [basic usage](!https://github.com/frappe/bench/blob/develop/docs/bench_usage.md) | [HIGH]
 		- [ ] Quick understanding for progressing towards milestone.
@@ -30,11 +39,13 @@
 	- [ ] Perceiving above components in Architecture as [background-services](!https://frappeframework.com/docs/v14/user/en/bench/resources/background-services), dig through first layer further. 
 		- [ ] Quick understanding for progressing towards milestone.
 		- [ ] Understood to teach a 6 year old boy.
-- [ ] Tech Evaluation: Is Frappe Scafolded applications are 12-factor cloud native app?
-	- [ ] Upgrade [Docker](!https://www.redhat.com/architect/12-factor-app-containers) 
-		- [x] CLI to Docker Desktop | [HIGH]
+	- [ ] From [Docker file](https://github.com/frappe/frappe_docker) meant for ERPNext start backtracking.
+- [ ] Tech Evaluation: Is Frappe Scafolded applications are 12-factor cloud native app? 
+	- [ ] Upgrade [Docker](!https://www.redhat.com/architect/12-factor-app-containers) | 02-Mar-23
+		- [x] CLI to Docker Desktop | [HIGH] | 02-Mar-23
 		- [ ] Blocked [[Blockages]] | [HIGH]
 	- [ ] Install minikube and test a sample application.
+	- [ ] Try to give life to ERPNext using [k3s cluster](https://verystrongfingers.github.io/erpnext/2021/02/11/erpnext-k3s.html)
 	- [ ] Test the kubernetes extension provided in docker desktop.
 	- [ ] Investigate Frappe framework from the the 12-factor app.
 		- [ ] [I. Codebase](https://12factor.net/codebase) - One codebase tracked in revision control, many deploys

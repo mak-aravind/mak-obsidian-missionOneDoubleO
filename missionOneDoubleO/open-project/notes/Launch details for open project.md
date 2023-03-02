@@ -27,8 +27,9 @@
 	openproject/community:12
 	
 	```  
-3. You can then launch a browser and access your new OpenProject installation at `http://localhost:8080`. Easy!
-4. To Stop the openproject container:  
+3. Launch Application
+	You can then launch a browser and access your new OpenProject installation at `http://localhost:8080`. Easy!
+1. To Stop the openproject container:  
 	```
 	docker stop openproject  
 	```
