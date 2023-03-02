@@ -2,12 +2,13 @@
 	- [ ] Develop a obsidian based project plan for - adoption of Frappe to build : Database centric, distributed and cloud native applications.  
 		 The project named as **missionOneDoubleO**. [WIP] 
 	- [ ] **Ask Hari** for Agile Project Managment Tool.
-		- [ ] Validate OpenProject.
+		- [ ] Validate OpenProject. [[OpenProject-TODO]]
 		- [ ] No need to repeat the task entries for tracking [[Backlog]] [HIGH]
 	- [ ] **Ask Hari** whether he had subscribed for ERPNext cloud Version. This will help to refer the functionality that we are going to use for local version of implmentation.
 		- [ ] Start with https://www.cloudclusters.io/cloud/erpnext/ for 7 days of trail [HIGH]
 		- [ ] If trail is satisfying then continue with Monthly paid subscription of plan: **Express Plan for ERPNext**
-	- [ ] **Ask Hari** for github official account. [HIGH]
+	- [ ] **Ask Hari** for github official account. Preferabbly gitlab official account[HIGH]
+		- [ ] Cloud clusters provide hosting for [gitlab](https://www.cloudclusters.io/cloud/gitlab/)
 	- [ ] **Ask Hari** for email account [HIGH]
 	- [ ] **Ask Hari** for Laptop. [LOW]
 	- [ ] **Ask Hari** for Monitor.[MEDIUM]

@@ -1,0 +1,5 @@
+- [x] Prepare a note to demonstrate how to launch locally [[Launch details for open project]]
+- [ ] Follow the launch notes to validate the product
+- [ ] Communicate about this to Hari
+	- [ ] Validate the open project on [cloud clusters](https://www.cloudclusters.io/cloud/openproject/)
+	- [ ] 

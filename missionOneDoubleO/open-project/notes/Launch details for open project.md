@@ -27,19 +27,20 @@
 	openproject/community:12
 	
 	```  
-3. To Stop the openproject container:  
+3. You can then launch a browser and access your new OpenProject installation at `http://localhost:8080`. Easy!
+4. To Stop the openproject container:  
 	```
 	docker stop openproject  
 	```
-4. To Start the openproject container:  
+5. To Start the openproject container:  
 	```
 	docker start openproject  
 	```
-5. To remove openproject
+6. To remove openproject
 	```
 	docker rm openproject  
 	```
-6. To See Logs:  
+7. To See Logs:  
 	```
 	sudo docker logs -f --tail 1000 openproject  
 	```
