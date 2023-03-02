@@ -35,6 +35,6 @@
 			Story: [Zerodha](https://erpnext.com/customer-stories/zerodha)
 			Success Evidence: [Playstore](https://play.google.com/store/apps/details?id=com.zerodha.kite3&hl=en)
 	- ### Modern way of evaluation :
-		- [ ] Verify you are able to modernize the apps developed by Frappe. Develop application on Frappe and find out whether the application is 12 Factor cloud-native app: https://www.redhat.com/architect/12-factor-app.
+		- [ ] Verify whether we are able to modernize the apps developed by Frappe. Develop application on Frappe and find out whether the application is 12 Factor cloud-native app: https://www.redhat.com/architect/12-factor-app.
 		- [ ] Why it has to be cloud-native app?
 			- [ ] because it keeps them agile, scalable and portable for years to come.

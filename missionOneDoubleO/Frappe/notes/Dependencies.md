@@ -1,8 +1,8 @@
  - [ ] Date: 01-Mar-23 | Time: 16:35 
-	- [ ] Develop a obsidian based project plan for - adoption of Frappe to build 
-		1. Database centric, distributed and cloud native applications.  
+	- [ ] Develop a obsidian based project plan for - adoption of Frappe to build : Database centric, distributed and cloud native applications.  
 		 The project named as **missionOneDoubleO**. [WIP] 
 	- [ ] **Ask Hari** for Agile Project Managment Tool.
+		- [ ] Validate OpenProject.
 		- [ ] No need to repeat the task entries for tracking [[Backlog]] [HIGH]
 	- [ ] **Ask Hari** whether he had subscribed for ERPNext cloud Version. This will help to refer the functionality that we are going to use for local version of implmentation.
 		- [ ] Start with https://www.cloudclusters.io/cloud/erpnext/ for 7 days of trail [HIGH]
