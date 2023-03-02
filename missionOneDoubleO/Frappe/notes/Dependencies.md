@@ -12,14 +12,14 @@
 	- [ ] **Ask Hari** for Laptop. [LOW]
 	- [ ] **Ask Hari** for Monitor.[MEDIUM]
 	- [ ] Confirm with Hari  for below approach :
-		- [ ] Biz road map [agreed double confirm]
-			- [ ] flow throught: 
+		- [ ] Biz road map [agreed but double confirm]
+			- [ ] flow through: 
 				1. Evaluate ERPNext ---> 
 				2. Adopt ERPNext for in-house ---> 
 				3. Ideate a basic [NEEDY] application to develop.
 			- [ ] Follow up:
 				- [ ]  If roadmap confirmed prepare the Gantt chart with tentative timelines for Biz road map. [Mohan/Hari todo]
-		- [ ] Technology road map [explain why](!https://github.com/frappe/erpnext)
+		- [ ] Technology road map [explain why](https://github.com/frappe/erpnext)
 			- [ ] flow through:
 				1. Install Frappe ---> 
 				2. Build a basic [NEEDY] application on Frappe ---> 
