@@ -1,6 +1,6 @@
 - ### Date: 2023-03-01 | Time: 16:40 
 
-- [ ] Install Prerequisites: [refer here](!https://github.com/frappe/bench/blob/develop/docs/installation.md) | [HIGH]-[WIP] | 02-Mar-23
+- [ ] Install Prerequisites: [refer here](!https://github.com/frappe/bench/blob/develop/docs/installation.md) | [HIGH]-[WIP] 
 	- [x] Python 3.6+| 02-Mar-23
 	- [x] Node.js 12 | 02-Mar-23
 	- [ ] Redis 5 | 
@@ -19,14 +19,14 @@
 		- [x] Don't install instead Go with Containerized version
 		- [x] docker run -it --rm -d -p 8080:80 --name web nginx
 		- [x] http://localhost:8080/
-- [ ] Tech Evaluation: Is Frappe applications are 12-factor cloud native app? [HIGH]-[WIP] | 02-Mar-23
+- [ ] Tech Evaluation: Is Frappe applications are 12-factor cloud native app? [HIGH]-[WIP]
 	- [ ] Upgrade [Docker](!https://www.redhat.com/architect/12-factor-app-containers) | 02-Mar-23
 		- [x] CLI to Docker Desktop | [HIGH] | 02-Mar-23
 		- [x] Blocked [[Blockages]] | [HIGH] | 03-Mar-23
 		- [ ] Run ERPNext locally as containerized app. 
-	- [x] Install minikube and test a sample application.
-	- [x] Test the Kubernetes extension provided in docker desktop. [worst performance DON'T USE]
-	- [x] Quickly validate open project as project management tool.
+	- [x] Install minikube and test a sample application. | 02-Mar-23
+	- [x] Test the Kubernetes extension provided in docker desktop. [worst performance DON'T USE] | 02-Mar-23
+	- [x] Quickly validate open project as project management tool. | 02-Mar-23
 	- [ ] Dismantle ERPNext by containers and bring it to minikube
 		- [ ] blow up its long list [TODO]-[HIGH]
 	- [ ] Investigate Frappe framework from the the 12-factor app.
