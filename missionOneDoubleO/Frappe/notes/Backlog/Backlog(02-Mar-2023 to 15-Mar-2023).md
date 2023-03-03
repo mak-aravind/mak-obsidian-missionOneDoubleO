@@ -20,7 +20,7 @@
 		- [x] docker run -it --rm -d -p 8080:80 --name web nginx
 		- [x] http://localhost:8080/
 - [ ] Tech Evaluation: Is Frappe applications are 12-factor cloud native app? [HIGH]-[WIP]
-	- [ ] Upgrade [Docker](!https://www.redhat.com/architect/12-factor-app-containers) | 02-Mar-23
+	- [ ] Upgrade [Docker](!https://www.redhat.com/architect/12-factor-app-containers) 
 		- [x] CLI to Docker Desktop | [HIGH] | 02-Mar-23
 		- [x] Blocked [[Blockages]] | [HIGH] | 03-Mar-23
 		- [ ] Run ERPNext locally as containerized app. 
