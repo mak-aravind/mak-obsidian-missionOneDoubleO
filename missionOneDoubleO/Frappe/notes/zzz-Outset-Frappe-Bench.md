@@ -21,9 +21,9 @@
 				[Agriculture](https://docs.erpnext.com/docs/v13/user/manual/en/agriculture)
 		- [ ] Basic [Low level](https://frappeframework.com/docs/v14/user/en/basics/architecture) Architecture		      
 		- [ ] How well documented:
-				- Videos: https://frappe.school/home
-				- Tutorial for beginners: https://frappeframework.com/docs/v14/user/en/tutorial
-				- Guide for developers: https://frappeframework.com/docs/v14/user/en/guides
+			- [Videos](https://frappe.school/home)
+			- [Tutorial for beginners](https://frappeframework.com/docs/v14/user/en/tutorial)
+			- [Guide for developers](https://frappeframework.com/docs/v14/user/en/guides)
 		- [ ] Developer Flow 
 			 1. Using bench create an app  
 			 2. Install the created app into site  
