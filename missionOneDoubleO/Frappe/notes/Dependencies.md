@@ -32,6 +32,6 @@
 				6. With the understanding of application we built on Frappe, implement the existing ERPNext as local version ---> 
 				7. Containerize local code base as application ---> 
 				8. Integrate an existing extension with ERPNext to bring in added-potential-value [payment gateway].
-				9. Orchestrate the dockerized application using k8s for 12 factor app.--->[[zzz-Outset-Frappe-Bench]]
+				9. Orchestrate the dockerized application using k8s for 12 factor app.--->[[Outset-Frappe-Bench]]
 			- [ ] Follow up:
 				- [ ] If roadmap confirmed prepare the Gantt chart with tentative timelines for tech road map. [Mohan/Hari/Aravind todo]
