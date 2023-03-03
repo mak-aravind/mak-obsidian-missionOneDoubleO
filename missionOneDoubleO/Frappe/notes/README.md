@@ -1,1 +1,1 @@
-[[zzz-Outset-Frappe-Bench]]
+![[zzz-Outset-Frappe-Bench]]
