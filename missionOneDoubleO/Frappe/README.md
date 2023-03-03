@@ -14,6 +14,6 @@ Adopt Frappe as framework to build small size enterprise applications.
 - ### Plan: 
 	- #### 02-Mar-2023 to 15-Mar-2023 : [Defined by Backlog](https://github.com/mak-aravind/mak-obsidian-missionOneDoubleO/blob/main/missionOneDoubleO/Frappe/notes/Backlog/Backlog(02-Mar-2023%20to%2015-Mar-2023).md)
 	- #### 16-Mar-2023 to 30-Mar-2023 : 
-- ### Execute: [Driven by Backlog](https://github.com/mak-aravind/mak-obsidian-missionOneDoubleO/blob/main/missionOneDoubleO/Frappe/notes/execution/BacklogDrivenExecution.md)
+- ### Execute: 
 	- #### 02-Mar-2023 to 15-Mar-2023 : [Driven by Backlog](https://github.com/mak-aravind/mak-obsidian-missionOneDoubleO/blob/main/missionOneDoubleO/Frappe/notes/execution/BacklogDrivenExecution.md)
 	- #### 16-Mar-2023 to 30-Mar-2023 : 
