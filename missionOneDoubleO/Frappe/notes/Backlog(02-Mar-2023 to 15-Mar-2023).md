@@ -41,12 +41,13 @@
 		- [ ] Understood to teach a 6 year old boy.
 	- [ ] From [Docker file](https://github.com/frappe/frappe_docker) meant for ERPNext start backtracking.
 - [ ] Tech Evaluation: Is Frappe Scafolded applications are 12-factor cloud native app? 
-	- [ ] Upgrade [Docker](!https://www.redhat.com/architect/12-factor-app-containers) | 02-Mar-23
+	- [x] Upgrade [Docker](!https://www.redhat.com/architect/12-factor-app-containers) | 02-Mar-23
 		- [x] CLI to Docker Desktop | [HIGH] | 02-Mar-23
 		- [ ] Blocked [[Blockages]] | [HIGH]
 	- [x] Install minikube and test a sample application.
-	- [ ] Try to give life to ERPNext using [k3s cluster](https://verystrongfingers.github.io/erpnext/2021/02/11/erpnext-k3s.html)
-	- [ ] Test the kubernetes extension provided in docker desktop.
+	- [x] Test the kubernetes extension provided in docker desktop. [worst performance DON'T USE]
+	- [ ] Dismantle ERPNext by containers and bring it to minikube
+		- [ ] blow up its long list [TODO] [HIGH]
 	- [ ] Investigate Frappe framework from the the 12-factor app.
 		- [ ] [I. Codebase](https://12factor.net/codebase) - One codebase tracked in revision control, many deploys
 		- [ ] [II. Dependencies](https://12factor.net/dependencies) - Explicitly declare and isolate dependencies
@@ -60,4 +61,4 @@
 		- [ ] [X. Dev/prod parity](https://12factor.net/dev-prod-parity) - Keep development, staging, and production as similar as possible
 		- [ ] [XI. Logs](https://12factor.net/logs) - Treat logs as event streams
 		- [ ] [XII. Admin processes](https://12factor.net/admin-processes) - Run admin/management tasks as one-off processes
-
+	- [ ] Try to give life to ERPNext using [k3s cluster](https://verystrongfingers.github.io/erpnext/2021/02/11/erpnext-k3s.html) | future proof to adopt k3s meant for IOT devices

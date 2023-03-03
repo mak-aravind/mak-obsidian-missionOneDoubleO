@@ -1,8 +1,7 @@
-# My Project
+# Validate Frappe to adopt as framework small size enterprise applications
 
-Description goes here
+Adoption of Frappe to build : Database centric, distributed and cloud native applications. 
 
-## myLib documentation
-see documentation 
+## Approch | Plan | Execute
 
-[a external link](https://github.com/mak-aravind/mak-obsidian-missionOneDoubleO/blob/e300ac61b157fb38b61be419f7cdf205e07d3c2c/missionOneDoubleO/Frappe/notes/zzz-Outset-Frappe-Bench.md)
+[Boot Frappe](https://github.com/mak-aravind/mak-obsidian-missionOneDoubleO/blob/e300ac61b157fb38b61be419f7cdf205e07d3c2c/missionOneDoubleO/Frappe/notes/zzz-Outset-Frappe-Bench.md)
