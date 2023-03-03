@@ -10,7 +10,7 @@
 		- [ ] Frappe is a full-stack "batteries included" framework.
 		- [ ] The framework itself is open source: https://github.com/frappe/frappe. 
 			- But how they monetize?:
-				      Strategically monetization learned by mistake, that's documented as [Back Story]( https://frappe.io/)
+				 - ==Strategically monetization learned by mistake, that's documented as [Back Story]( https://frappe.io/)==
 			- Cloud implementations to support SAAS:
 				- [Frappe Cloud](https://frappecloud.com/pricing)
 				- [Cloud Clusters](https://www.cloudclusters.io/cloud/erpnext/)
