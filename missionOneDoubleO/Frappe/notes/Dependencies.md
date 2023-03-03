@@ -7,9 +7,10 @@
 	- [ ] **Ask Hari** whether he had subscribed for ERPNext cloud Version. This will help to refer the functionality that we are going to implement as local version.
 		- [ ] Start with https://www.cloudclusters.io/cloud/erpnext/ for 7 days of trail [HIGH]
 		- [ ] If trail is satisfying then continue with Monthly paid subscription of plan: **Express Plan for ERPNext**
-	- [ ] **Ask Hari** for github official account. Preferabbly gitlab official account[HIGH]
+	- [ ] **Ask Hari** for github official account. Preferably gitlab official account[HIGH]
 		- [ ] Cloud clusters provide hosting for [gitlab](https://www.cloudclusters.io/cloud/gitlab/)
-		- [ ] Ask the employees available to learn git, if they are not expert.
+		- [ ] Ask the available employees to learn git, if they are not expert.
+		- [ ] Do you afford to pay for GitKraken?
 	- [ ] **Ask Hari** for email account [HIGH]
 	- [ ] **Ask Hari** for Laptop. [LOW]
 	- [ ] **Ask Hari** for Monitor.[MEDIUM]
@@ -18,18 +19,18 @@
 			- [ ] flow through: 
 				1. Evaluate ERPNext ---> 
 				2. Adopt ERPNext for in-house ---> 
-				3. Ideate a basic [NEEDY] application to develop.
+				3. Idea-ate a basic [NEEDY] application to develop.
 			- [ ] Follow up:
-				- [ ]  If roadmap confirmed prepare the Gantt chart with tentative timelines for Biz road map. [Mohan/Hari todo]
+				- [ ]  If road map confirmed prepare the Gantt chart with tentative timelines for Biz road map. [Mohan/Hari todo]
 		- [ ] Technology road map [explain why](https://github.com/frappe/erpnext)  [backtracking](https://github.com/frappe/frappe_docker) is the best approach
 			- [ ] flow through:
 				1. Install dockerized "open project" locally --->
-				2. Quickly evalute open project ---> [Mark this project as potential cababilty to set right the delivery process??] -----> [[Dev-And-Release-Process]]
-				3. Follow the same strategy to run the containerised ERPNext ---> [if biz satisfied go to setp 4].
+				2. Quickly evaluate open project ---> [Mark this project as potential capability to set right the delivery process??] -----> [[Dev-And-Release-Process]]
+				3. Follow the same strategy to run the containerized ERPNext ---> [if biz satisfied go to setp 4].
 				4. Install Frappe ---> 
 				5. Build a basic [NEEDY] application on Frappe ---> 
 				6. With the understanding of application we built on Frappe, implement the existing ERPNext as local version ---> 
-				7. Dockerize the application ---> 
+				7. Containerize local code base as application ---> 
 				8. Integrate an existing extension with ERPNext to bring in added-potential-value [payment gateway].
 				9. Orchestrate the dockerized application using k8s for 12 factor app.--->[[zzz-Outset-Frappe-Bench]]
 			- [ ] Follow up:

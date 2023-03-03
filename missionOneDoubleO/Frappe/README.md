@@ -8,6 +8,8 @@ Adopt Frappe as framework to build small size enterprise applications.
 	- Well-maintainable.
 	- Cloud native.
 
-## Approach | Plan | Execute
+## Plan| Approach | Execute
 
-[Boot Frappe](https://github.com/mak-aravind/mak-obsidian-missionOneDoubleO/blob/main/missionOneDoubleO/Frappe/notes/zzz-Outset-Frappe-Bench.md)
+- ### Plan : [Boot Frappe](https://github.com/mak-aravind/mak-obsidian-missionOneDoubleO/blob/main/missionOneDoubleO/Frappe/notes/zzz-Outset-Frappe-Bench.md)
+- ### Approach: [Defined by Backlog](https://github.com/mak-aravind/mak-obsidian-missionOneDoubleO/blob/main/missionOneDoubleO/Frappe/notes/Backlog/Backlog(02-Mar-2023%20to%2015-Mar-2023).md)
+- ### Execution: [Driven by Backlog](https://github.com/mak-aravind/mak-obsidian-missionOneDoubleO/blob/main/missionOneDoubleO/Frappe/notes/execution/BacklogDrivenExecution.md)

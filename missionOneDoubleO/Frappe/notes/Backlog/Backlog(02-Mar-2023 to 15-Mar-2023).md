@@ -1,0 +1,68 @@
+- ### Date: 2023-03-01 | Time: 16:40 
+
+- [ ] Install Prerequisites: [refer here](!https://github.com/frappe/bench/blob/develop/docs/installation.md) | [HIGH]-[WIP] | 02-Mar-23
+	- [x] Python 3.6+| 02-Mar-23
+	- [x] Node.js 12 | 02-Mar-23
+	- [ ] Redis 5 | 
+		- [ ] Verify the Redis docker image and Customize it 
+	- [ ] MariaDB 10.3 / PostgreSQL 9.5
+		- [ ] Verify the PostgreSQL docker image and Customize it 
+	- [x] yarn 1.12+ | 02-Mar-23
+	- [x] pip 15+ | 02-Mar-23	
+	- [x] cron | 02-Mar-23
+	- [x] wkhtmltopdf | 02-Mar-23
+		- [x] lsb_release -a
+		- [x] https://wkhtmltopdf.org/downloads.html
+		- [x] sudo apt install ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb
+		- [x] wkhtmltopdf --version
+	- [x] Nginx | 02-Mar-23
+		- [x] Don't install instead Go with Containerized version
+		- [x] docker run -it --rm -d -p 8080:80 --name web nginx
+		- [x] http://localhost:8080/
+- [ ] Tech Evaluation: Is Frappe applications are 12-factor cloud native app? [HIGH]-[WIP] | 02-Mar-23
+	- [ ] Upgrade [Docker](!https://www.redhat.com/architect/12-factor-app-containers) | 02-Mar-23
+		- [x] CLI to Docker Desktop | [HIGH] | 02-Mar-23
+		- [x] Blocked [[Blockages]] | [HIGH] | 03-Mar-23
+		- [ ] Run ERPNext locally as containerized app. 
+	- [x] Install minikube and test a sample application.
+	- [x] Test the Kubernetes extension provided in docker desktop. [worst performance DON'T USE]
+	- [x] Quickly validate open project as project management tool.
+	- [ ] Dismantle ERPNext by containers and bring it to minikube
+		- [ ] blow up its long list [TODO]-[HIGH]
+	- [ ] Investigate Frappe framework from the the 12-factor app.
+		- [ ] [I. Codebase](https://12factor.net/codebase) - One code-base tracked in revision control, many deploys
+		- [ ] [II. Dependencies](https://12factor.net/dependencies) - Explicitly declare and isolate dependencies
+		- [ ] [III. Config](https://12factor.net/config)- Store config in the environment
+		- [ ] [IV. Backing services](https://12factor.net/backing-services) - Treat backing services as attached resources
+		- [ ] [V. Build, release, run](https://12factor.net/build-release-run) - Strictly separate build and run stages
+		- [ ] [VI. Processes](https://12factor.net/processes) - Execute the app as one or more stateless processes
+		- [ ] [VII. Port binding](https://12factor.net/port-binding) - Export services via port binding
+		- [ ] [VIII. Concurrency](https://12factor.net/concurrency) - Scale out via the process model
+		- [ ] [IX. Disposability](https://12factor.net/disposability) - Maximize robustness with fast startup and graceful shutdown
+		- [ ] [X. Dev/prod parity](https://12factor.net/dev-prod-parity) - Keep development, staging, and production as similar as possible
+		- [ ] [XI. Logs](https://12factor.net/logs) - Treat logs as event streams
+		- [ ] [XII. Admin processes](https://12factor.net/admin-processes) - Run admin/management tasks as one-off processes
+	- [ ] Try to give life to ERPNext using [k3s cluster](https://verystrongfingers.github.io/erpnext/2021/02/11/erpnext-k3s.html) | future proof to adopt k3s meant for IOT devices.
+- [ ] Understand bench tool to create the scaffolding of the application.
+	- [ ]  [basic usage](!https://github.com/frappe/bench/blob/develop/docs/bench_usage.md) | [HIGH]
+		- [ ] Quick understanding for progressing towards milestone.
+		- [ ] Understood to teach a 6 year old boy.
+	- [ ]  [extend the capabilities](!https://github.com/frappe/bench/blob/develop/docs/bench_custom_cmd.md) of bench with your own custom Frappe Application | [LOW]
+		- [ ] Quick understanding for progressing towards milestone.
+		- [ ] Understood to teach a 6 year old boy.
+	- [ ] explore more commands  using [Bench cheatsheet](!https://frappeframework.com/docs/v14/user/en/bench/resources/bench-commands-cheatsheet) | [MEDIUM]
+		- [ ] Quick understanding for progressing towards milestone.
+		- [ ] Understood to teach a 6 year old boy.
+- [ ] Scaffolding
+	- [ ] At low level, understand Frappe framework's way of [scafolding](!https://frappeframework.com/docs/v14/user/en/guides/basics/apps).
+		- [ ] Quick understanding for progressing towards milestone.
+		- [ ] Understood to teach a 6 year old boy.
+	- [ ] Understand the [low level Architecture](!https://frappeframework.com/docs/v14/user/en/basics/architecture)
+		- [ ] Quick understanding for progressing towards milestone.
+		- [ ] Understood to teach a 6 year old boy.
+	- [ ] Perceiving above components in Architecture as [background-services](!https://frappeframework.com/docs/v14/user/en/bench/resources/background-services), dig through first layer further. 
+		- [ ] Quick understanding for progressing towards milestone.
+		- [ ] Understood to teach a 6 year old boy.
+	- [ ] From [Docker file](https://github.com/frappe/frappe_docker) meant for ERPNext start backtracking.
+- [ ] Delivery Process Definition
+	- [ ] Mark "Open Project" as potential capability to set right the delivery process??

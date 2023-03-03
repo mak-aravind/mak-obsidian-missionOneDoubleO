@@ -8,14 +8,15 @@
 	- ### Features:
 		- [ ] Low code framework.
 		- [ ] Frappe is a full-stack "batteries included" framework.
+		- [ ] Though they had a wonderful framework to solve most of enterprise problems, they are not able to penetrate into market.
+		- [ ] Next aggressive move: The reference application implemented using frappe:  [ERPNext](https://docs.erpnext.com/docs/v13/user/manual/en/introduction#what-is-erpnext)
+		- [ ] The operations between entities in a ERP: [FlowChart](https://docs.erpnext.com/docs/v13/user/manual/en/introduction/key-workflows)			
 		- [ ] The framework itself is open source: https://github.com/frappe/frappe. 
 			- But how they monetize?:
 				 - Strategically monetization learned by mistake, that's documented as [Back Story]( https://frappe.io/)
 			- Cloud implementations to support SAAS:
 				- [Frappe Cloud](https://frappecloud.com/pricing)
 				- [Cloud Clusters](https://www.cloudclusters.io/cloud/erpnext/)
-		- [ ] The reference application implemented using frappe:  [ERPNext](https://docs.erpnext.com/docs/v13/user/manual/en/introduction#what-is-erpnext)
-		- [ ] The operations between entities in a ERP: [FlowChart](https://docs.erpnext.com/docs/v13/user/manual/en/introduction/key-workflows)			
 		- [ ] Why the ERPNext become famous? The [Modules](https://docs.erpnext.com/docs/v13/user/manual/en) covered for an Enterprise.
 		- [ ] Other applications developed using Frappe:
 				[Diverse applications](https://frappe.io/frappeverse)
