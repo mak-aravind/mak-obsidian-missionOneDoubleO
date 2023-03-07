@@ -28,7 +28,7 @@
 	- [x] Test the Kubernetes extension provided in docker desktop. [worst performance DON'T USE] | 02-Mar-23
 	- [x] Quickly validate open project as project management tool. | 02-Mar-23
 	- [ ] Dismantle ERPNext by containers and bring it to minikube
-		- [ ] blow up its long list [TODO]-[HIGH]
+		- [ ] blow up its long list [ ~~TODO~~ ] - [WIP] - [HIGH] | 03-Mar-23 | 06-Mar-23
 	- [ ] Investigate Frappe framework from the the 12-factor app.
 		- [ ] [I. Codebase](https://12factor.net/codebase) - One code-base tracked in revision control, many deploys
 		- [ ] [II. Dependencies](https://12factor.net/dependencies) - Explicitly declare and isolate dependencies

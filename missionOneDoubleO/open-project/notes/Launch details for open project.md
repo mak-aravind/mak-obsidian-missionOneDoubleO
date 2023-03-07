@@ -2,7 +2,7 @@
 ### Quick Start:
 
    
-1. ***Without local persistance*** : Default command for launching openproject from docker image:  
+1. ***Without local persistence*** : Default command for launching openproject from docker image:  
     ```
 	docker run -it -p 8080:80 \  
 		-e OPENPROJECT_SECRET_KEY_BASE=secret \  
@@ -14,7 +14,7 @@
 
 	1. Create the required directories for web app static and postgres db:  
 	```
-	sudo mkdir -p /home/mak/MEGA/MEGAsync/mak/openproject/{pgdata,assets}
+	mkdir -p /home/mak/MEGA/MEGAsync/mak/openproject/{pgdata,assets}
 	```
 	2. Run the container with local volumes of pgdata and static for **persistence**:  
 	```
@@ -29,7 +29,7 @@
 	```  
 3. Launch Application
 	You can then launch a browser and access your new OpenProject installation at `http://localhost:8080`. Easy!
-1. To Stop the openproject container:  
+4. To Stop the openproject container:  
 	```
 	docker stop openproject  
 	```
