@@ -1,12 +1,12 @@
 # 💠 - Backlog(02-Mar-2023 to 15-Mar-2023)
 
-- [ ] Install Prerequisites: [refer here](!https://github.com/frappe/bench/blob/develop/docs/installation.md) | [HIGH]-[WIP] 
+- [x] Install Prerequisites: [refer here](!https://github.com/frappe/bench/blob/develop/docs/installation.md) | [HIGH]-[WIP] 
 	- [x] Python 3.6+| 02-Mar-23
 	- [x] Node.js 12 | 02-Mar-23
-	- [ ] Redis 5 | 
-		- [ ] Verify the Redis docker image and Customize it 
-	- [ ] MariaDB 10.3 / PostgreSQL 9.5
-		- [ ] Verify the PostgreSQL docker image and Customize it 
+	- [x] Redis 5 | 
+		- [x] Verify the Redis docker image and Customize it 
+	- [x] MariaDB 10.3 / PostgreSQL 9.5
+		- [x] Verify the PostgreSQL docker image and Customize it 
 	- [x] yarn 1.12+ | 02-Mar-23
 	- [x] pip 15+ | 02-Mar-23	
 	- [x] cron | 02-Mar-23
