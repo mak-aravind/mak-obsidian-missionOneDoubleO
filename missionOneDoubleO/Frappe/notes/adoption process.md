@@ -1,0 +1,18 @@
+- Check out below code base:
+	- Use container as a full-featured development environment  
+		- https://github.com/frappe/frappe_docker
+			- [ ] Fork
+			- [ ] Set up the development workspace and validate it by accessing any application built using Frappe
+			- [ ] Make sure the approach suites for production as well
+	- Frappe as Framework
+		- https://github.com/frappe/frappe
+			- [ ] Fork
+			- [ ] Verify the framework by installing that in a docker environment and usages
+	- Free and Open Source Enterprise Resource Planning (ERP)
+		- https://github.com/frappe/erpnext
+			- [ ] Fork
+			- [ ] Verify the framework by installing that in a docker environment and usages
+	- Helm Chart to deploy a _frappe-bench_-like environment on Kubernetes.
+		- https://github.com/frappe/helm
+			- [ ]  Fork
+			- [ ] Verify the deployments, Ingresses, Jobs, PVC, Secrets, Services, ServiceAccounts by following the guidelines at https://helm.erpnext.com/
